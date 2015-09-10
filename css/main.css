@@ -317,6 +317,86 @@ body {
   margin-right: 35px;
 }
 
+.main-body-area-2 {
+  text-align: center;
+  font-family: 'Lato';
+  margin-bottom: 25px;
+}
+
+.main-body-area-2 h1 {
+  font-size: 4em;
+  text-transform: uppercase;
+}
+
+.main-body-area-2 a {
+  text-decoration: none;
+  color: black;
+  font-size: 2em;
+  border: 4px solid black;
+  padding: 20px 10px;
+  text-transform: uppercase;
+}
+
+.main-body-area-2 .box-area {
+  text-align: left;
+  border: 3px solid yellow;
+  padding: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+underline {
+  text-decoration: underline;
+}
+blue {
+  color: #16aeb0;
+}
+.main-body-area-2 .box-area .signature {
+  font-family: "Kristi";
+  font-size: 45px;
+}
+
+.main-body-area-3 {
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  font-family: 'Lato';
+}
+.main-body-area-4 {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  font-family: 'Lato';
+}
+.main-body-area-4 a {
+  text-decoration: none;
+  color: black;
+  font-size: 2em;
+  border: 4px solid black;
+  padding: 20px 10px;
+  text-transform: uppercase;
+  margin-left: 40%;
+  text-align: center;
+}
+.main-body-area-4 .lower-text {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.main-body-area-5 {
+  margin-bottom: 25px;
+  font-family: 'Lato';
+  background-color: #16aeb0;
+}
+.main-body-area-5 h2 {
+  text-align: center;
+  font-size:2.1em;
+  text-transform: uppercase;
+  margin-left: 100px;
+  margin-right: 100px;
+}
 /* ==========================================================================
    Media Queries
    ========================================================================== */
