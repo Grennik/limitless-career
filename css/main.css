@@ -1165,7 +1165,7 @@ italic {
   list-style-image: url(../img/gold-arrow.png);
   margin-bottom: 70px;
 }
-.main-body-area-14 img {
+.main-body-area-14 .logo {
   display: block;
   margin: auto;
   padding-top: 50px;
@@ -1201,16 +1201,12 @@ italic {
   top: 100px;
   position: relative;
 }
-.main-body-area-14 span {
-  border: 5px solid black;
-  margin-top: 30px;
-  padding: 30px 15px;
-  font-size: 30px;
-  margin-left: 35px;
-  background-color: #16aeb0;
-  color: white;
-  margin-left: 10%;
-  text-align: center;
+.main-body-area-14 .payments .payment {
+  position: relative;
+  padding: 0px 35px;
+}
+.main-body-area-14 .payments {
+  margin-left: 12.5%;
 }
 
 /* body area 15 */
@@ -1218,7 +1214,7 @@ italic {
 .main-body-area-15 {
   background-image: url(../img/background-body7.png);
   background-repeat: no-repeat;
-  margin-top: -25px;
+  margin-top: -35px;
   font-family: 'Lato';
 }
 .main-body-area-15 h1 {
