@@ -846,6 +846,7 @@ italic {
 
 .modules-area .module .module-dropdown {
   border: 5px solid black;
+  padding-bottom: 35px;
 }
 
 .modules-area .module .module-dropdown .title {
@@ -867,23 +868,25 @@ italic {
 .modules-area .module .module-dropdown img {
   float: left;
   margin-left: 20px;
-  margin-top: 15px;
-
+  margin-top: 5px;
+  margin-bottom: 105px;
+  height: 189px;
+  width: 334px;
 }
 .modules-area .module .module-dropdown ul {
   font-size: 15px;
-  float: right;
+  left: 40px;
   margin-top: 5px;
   margin-right: 35px;
   margin-bottom: 0px;
+  position: relative;
 }
 .modules-area .module .module-dropdown p {
   font-size: 15px;
-  margin-right: 15px;
-  padding-left: -25px;
   text-indent: 25px;
   margin-top: 0px;
   margin-bottom: 0px;
+  position: relative;
 }
 .modules-area .module .module-dropdown .bottom {
   padding-bottom: 10px;
@@ -956,6 +959,7 @@ italic {
 
 #cover-letter .module-dropdown {
   border-color: #f26c4f;
+  padding-bottom: 60px;
 }
 
 #networking .name {
@@ -1024,6 +1028,7 @@ italic {
 
 #salary .module-dropdown {
   border-color: #7da7d9;
+  padding-bottom: 60px;
 }
 
 /* body area 12 */
